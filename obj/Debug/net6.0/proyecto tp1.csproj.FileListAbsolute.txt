@@ -1,0 +1,102 @@
+C:\Users\axelf\source\repos\proyecto tp1\obj\Debug\net6.0\proyecto tp1.csproj.AssemblyReference.cache
+C:\Users\axelf\source\repos\proyecto tp1\obj\Debug\net6.0\proyecto tp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axelf\source\repos\proyecto tp1\obj\Debug\net6.0\proyecto tp1.AssemblyInfoInputs.cache
+C:\Users\axelf\source\repos\proyecto tp1\obj\Debug\net6.0\proyecto tp1.AssemblyInfo.cs
+C:\Users\axelf\source\repos\proyecto tp1\obj\Debug\net6.0\proyecto tp1.csproj.CoreCompileInputs.cache
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\proyecto tp1.exe
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\proyecto tp1.deps.json
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\proyecto tp1.runtimeconfig.json
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\proyecto tp1.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\proyecto tp1.pdb
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\axelf\source\repos\proyecto tp1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\axelf\source\repos\proyecto tp1\obj\Debug\net6.0\proyecto tp1.csproj.CopyComplete
+C:\Users\axelf\source\repos\proyecto tp1\obj\Debug\net6.0\proyecto tp1.dll
+C:\Users\axelf\source\repos\proyecto tp1\obj\Debug\net6.0\refint\proyecto tp1.dll
+C:\Users\axelf\source\repos\proyecto tp1\obj\Debug\net6.0\proyecto tp1.pdb
+C:\Users\axelf\source\repos\proyecto tp1\obj\Debug\net6.0\proyecto tp1.genruntimeconfig.cache
+C:\Users\axelf\source\repos\proyecto tp1\obj\Debug\net6.0\ref\proyecto tp1.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\proyecto tp1.exe
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\proyecto tp1.deps.json
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\proyecto tp1.runtimeconfig.json
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\proyecto tp1.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\proyecto tp1.pdb
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Antho\Downloads\Proyecto Axel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Antho\Downloads\Proyecto Axel\obj\Debug\net6.0\proyecto tp1.csproj.AssemblyReference.cache
+C:\Users\Antho\Downloads\Proyecto Axel\obj\Debug\net6.0\proyecto tp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antho\Downloads\Proyecto Axel\obj\Debug\net6.0\proyecto tp1.AssemblyInfoInputs.cache
+C:\Users\Antho\Downloads\Proyecto Axel\obj\Debug\net6.0\proyecto tp1.AssemblyInfo.cs
+C:\Users\Antho\Downloads\Proyecto Axel\obj\Debug\net6.0\proyecto tp1.csproj.CoreCompileInputs.cache
+C:\Users\Antho\Downloads\Proyecto Axel\obj\Debug\net6.0\proyecto tp1.csproj.CopyComplete
+C:\Users\Antho\Downloads\Proyecto Axel\obj\Debug\net6.0\proyecto tp1.dll
+C:\Users\Antho\Downloads\Proyecto Axel\obj\Debug\net6.0\refint\proyecto tp1.dll
+C:\Users\Antho\Downloads\Proyecto Axel\obj\Debug\net6.0\proyecto tp1.pdb
+C:\Users\Antho\Downloads\Proyecto Axel\obj\Debug\net6.0\proyecto tp1.genruntimeconfig.cache
+C:\Users\Antho\Downloads\Proyecto Axel\obj\Debug\net6.0\ref\proyecto tp1.dll
